@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola</h1>
-    <a href="{{url('/inicio')}}">Ir a inicio</a>
+    <h1>Doicela</h1>
 </body>
 </html>

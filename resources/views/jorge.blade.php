@@ -6,7 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola</h1>
+    <h1>Jorge</h1>
+    <a href="{{url('/molina')}}">Ir a inicio</a>
+    <br>
     <a href="{{url('/inicio')}}">Ir a inicio</a>
+    <br>
+    <a href="{{url('/welcome')}}">Ir a inicio</a>
+    <br>
+    <a href="{{url('/jorge')}}">Ir a inicio</a>
 </body>
 </html>
