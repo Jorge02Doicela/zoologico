@@ -3,7 +3,7 @@
 @section('content')
     <div class="container">
         <h1>Hola, estoy en index</h1>
-        <a href="#" class="btn btn-primary">Agregar animal</a>
+        <a href="{{route('animales.create')}}" class="btn btn-primary">Agregar animal</a>
         <table class="table mt-3">
             <thead>
             <tr>
