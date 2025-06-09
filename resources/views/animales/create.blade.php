@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container"> 
-        <h1>Insertar animal</h1>
+        <h1>Insertar animales</h1>
         <form action="{{route('animales.store')}}" method="post">
             @csrf
             <div class="mb-3">
