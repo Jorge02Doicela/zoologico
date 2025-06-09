@@ -13,8 +13,8 @@
         </div>
 
         <div class="text-center">
-            <p><strong>Nombre:</strong> Karen</p>
-            <p><strong>Especie:</strong> Migajera</p>
+<p><strong>Nombre:</strong> {{ $animal->nombre }}</p>
+<p><strong>Especie:</strong> {{ $animal->especie }}</p>
         </div>
     </div>
 </div>
